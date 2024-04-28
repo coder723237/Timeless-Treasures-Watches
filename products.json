@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name":"⌚ Samsung Active 2",
+        "price": 5200,
+        "image": "active-2.jpeg",
+        "url": "active-2.html"
+    },
+    {
+        "id": 2,
+        "name":"⌚ Fossil Gen 9 (For Ladies)",
+        "price": 5200,
+        "image": "fossil-9.jpeg",
+        "url": "fossil-9.html"
+    },
+    {
+        "id": 3,
+        "name":"⌚ Rolex GMT Master 2",
+        "price": 7000,
+        "image": "rolex-2.jpeg",
+        "url": "rolex-2.html"
+    },
+    {
+        "id": 4,
+        "name":"⌚ Tag Huer",
+        "price": 5500,
+        "image": "tag-huer.jpeg",
+        "url": "tag-huer.html"
+    },
+    {
+        "id": 5,
+        "name":"⌚ G-Shock MudMaster",
+        "price": 5200,
+        "image": "g-shock.jpeg",
+        "url": "g-shock.html"
+    },
+    {
+        "id": 6,
+        "name":"⌚ Rolex Cosmograph Daytona",
+        "price": 7500,
+        "image": "rolex-3.jpeg",
+        "url": "rolex-3.html"
+    }
+]
